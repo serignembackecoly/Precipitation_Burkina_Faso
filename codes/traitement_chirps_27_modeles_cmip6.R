@@ -11,7 +11,7 @@ library(verification)
 # Repertoire de travail
 setwd("E:/Etude/Donnees/")
 # Repertoire de figures
-figs_path <- "E:/Etude/Figures/"
+figs_path <- "figures/"
 # Ouvrir les données
 fichiers <- list.files() 
 # [1] "masked_sum_mon_ACCESS-CM2.nc"       "masked_sum_mon_ACCESS-ESM1-5.nc"   
